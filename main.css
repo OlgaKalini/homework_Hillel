@@ -17,11 +17,11 @@ body {
     max-width: 1100px;
     margin: 0 auto;
     padding: 40px;
-    background-color: lightgray;
+    background-color: gainsboro;
 }
 
 h1 {
-    font-size: 48px;
+    font-size: 50px;
     font-weight: 500;
 }
 
